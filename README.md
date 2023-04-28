@@ -1,2 +1,4 @@
-# DataVisualization_R
-R - Data Visualization
+# R - Data Visualization Project
+
+Global Inflation dataset Report
+
